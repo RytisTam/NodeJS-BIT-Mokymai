@@ -1,0 +1,23 @@
+{
+  "name": "pirma-pamoka-nodejs-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "dead-server --port=3000 --host=localhost"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RytisTam/01-11-BIT-NodeJS-Pamoka.git"
+  },
+  "author": "Rytis <rytis@rtam.lt>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RytisTam/01-11-BIT-NodeJS-Pamoka/issues"
+  },
+  "homepage": "https://github.com/RytisTam/01-11-BIT-NodeJS-Pamoka#readme",
+  "dependencies": {
+    "dead-server": "^1.0.4"
+  }
+}

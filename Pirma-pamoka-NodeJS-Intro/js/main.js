@@ -1,0 +1,1 @@
+console.log('Labas vakaras, Lietuva! 🚀🎅');
