@@ -1,4 +1,4 @@
-console.clear();
+// console.clear();
 
 const a1 = [10, 8, 2, 4];
 const a2 = [1, 3, 5, 7, 9];
@@ -61,3 +61,4 @@ function printPersonDetails(x) {
 printPersonDetails(jonas);
 // printPersonDetails(maryte);
 maryte.getDetails();
+
