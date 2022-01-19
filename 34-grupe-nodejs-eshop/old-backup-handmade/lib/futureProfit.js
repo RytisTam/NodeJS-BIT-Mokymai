@@ -1,1 +1,0 @@
-// funkcija, kuri apskaiciuoja, uz kiek dar galima suprekiauti is likusiu prekiu

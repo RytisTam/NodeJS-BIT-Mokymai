@@ -1,1 +1,0 @@
-// funkcija, kuri skaiciuoja visu parduotu prekiu kieki
